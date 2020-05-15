@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.idea.skinet/.idea/indexLayout.xml
+.idea/.idea.skinet/.idea/markdown-navigator-enh.xml
+.idea/.idea.skinet/.idea/markdown-navigator.xml
+.idea/.idea.skinet/.idea/vcs.xml
+API/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+API/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+API/obj/Debug/netcoreapp3.1/API.assets.cache
+API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+API/obj/project.packagespec.json
+Core/bin/
+Core/obj/project.packagespec.json
+Infrastructure/bin/
+Infrastructure/obj/project.packagespec.json
