@@ -1,0 +1,12 @@
+/Users/johnmorris/Projects/skinet/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/johnmorris/Projects/skinet/Core/bin/Debug/netcoreapp3.1/Core.runtimeconfig.json
+/Users/johnmorris/Projects/skinet/Core/bin/Debug/netcoreapp3.1/Core.runtimeconfig.dev.json
+/Users/johnmorris/Projects/skinet/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/johnmorris/Projects/skinet/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.pdb
+/Users/johnmorris/Projects/skinet/Core/obj/Debug/netcoreapp3.1/Core.genruntimeconfig.cache

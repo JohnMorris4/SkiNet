@@ -1,0 +1,12 @@
+/Users/johnmorris/Projects/skinet/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+/Users/johnmorris/Projects/skinet/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/johnmorris/Projects/skinet/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/johnmorris/Projects/skinet/Infrastructure/bin/Debug/netcoreapp3.1/Core.dll
+/Users/johnmorris/Projects/skinet/Infrastructure/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CopyComplete
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb
