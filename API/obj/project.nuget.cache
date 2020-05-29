@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VIWE3fO0Yd7jtt3WrVAmnz9n2cexqg2uelk0p7ZDaJDcMraRtJrplxyhmcqPgjONE5WKenXySqJAuK+JkkoTUQ==",
+  "dgSpecHash": "PuCYiqt/f41fFJdnFbm++oaAzN2qUuJe5yrGKd5/uBU1V/ZqvvgD2Z3Wx55KHzEcrMrJLsYAiOAoE/Ck2Or3rA==",
   "success": true,
   "projectFilePath": "/Users/johnmorris/Projects/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/johnmorris/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -28,6 +30,8 @@
     "/Users/johnmorris/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.1/microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.extensions.options/3.1.1/microsoft.extensions.options.3.1.1.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.extensions.primitives/3.1.1/microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -35,8 +39,16 @@
     "/Users/johnmorris/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/johnmorris/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+    "/Users/johnmorris/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
