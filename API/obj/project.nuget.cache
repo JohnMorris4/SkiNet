@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PuCYiqt/f41fFJdnFbm++oaAzN2qUuJe5yrGKd5/uBU1V/ZqvvgD2Z3Wx55KHzEcrMrJLsYAiOAoE/Ck2Or3rA==",
+  "dgSpecHash": "Tzwxor1goC0/Fzcc2YFEKmoA6b+Ri5oT1Ie9LaT0T6s/1zhcBGSCnr3fyNfr2zphnuPW4ugzsXSaHvqypaNDNg==",
   "success": true,
   "projectFilePath": "/Users/johnmorris/Projects/skinet/API/API.csproj",
   "expectedPackageFiles": [
@@ -32,10 +32,14 @@
     "/Users/johnmorris/.nuget/packages/microsoft.extensions.primitives/3.1.1/microsoft.extensions.primitives.3.1.1.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/swashbuckle.aspnetcore.swagger/5.4.1/swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.4.1/swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "/Users/johnmorris/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.4.1/swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
