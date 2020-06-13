@@ -66,3 +66,12 @@
 /Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/johnmorris/Projects/skinet/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/StackExchange.Redis.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.IO.Pipelines.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
