@@ -3,6 +3,7 @@ using API.Helpers;
 using API.Middleware;
 using AutoMapper;
 using Infrastructure.Data;
+using Infrastructure.Identity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -26,8 +27,16 @@ namespace API
         {
             services.AddControllers();
             services.AddAutoMapper(typeof(MappingProfiles));
+            
+            //This is the Base Connection String 
             services.AddDbContext<StoreContext>(x => 
                 x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+            
+            //Identity DbContext Connection String
+            services.AddDbContext<AppIdentityDbContext>(x =>
+                x.UseSqlite(Configuration.GetConnectionString("IdentityConnection")));
+            
+            //Redis ONLY Connection String
             services.AddSingleton<IConnectionMultiplexer>(c =>
             {
                 var config = ConfigurationOptions
@@ -35,6 +44,7 @@ namespace API
                 return ConnectionMultiplexer.Connect(config);
             });
             services.AddApplicationServices();
+            services.AddIdentityServices(Configuration);
             services.AddSwaggerServices();
             services.AddCors(opt =>
             {
@@ -59,8 +69,9 @@ namespace API
             app.UseRouting();
             app.UseStaticFiles();
             app.UseCors("CorsPolicy");
-            
-            
+
+            //Make sure this is above the Authorization or you will get an error
+            app.UseAuthentication();
             // CORS has to go above the UseAuthorization()     
             app.UseAuthorization();
             app.UseSwaggerDocs();

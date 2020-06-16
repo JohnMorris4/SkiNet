@@ -75,3 +75,17 @@
 /Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
 /Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
 /Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/johnmorris/Projects/skinet/API/bin/Debug/netcoreapp3.1/System.Text.Json.dll

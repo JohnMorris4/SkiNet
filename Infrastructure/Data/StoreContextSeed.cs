@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Core.Entities;
 using Microsoft.Extensions.Logging;
 
+
 namespace Infrastructure.Data
 {
     public class StoreContextSeed
