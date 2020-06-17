@@ -1,8 +1,11 @@
+using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using API.Dtos.Identity;
 using API.Errors;
 using Core.Entities.Identity;
 using Core.Interfaces.IdentityServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
@@ -63,6 +66,38 @@ namespace API.Controllers.Identity
                 Token = _tokenService.CreateToken(user),
                 Email = user.Email
             };
+        }
+
+        [HttpGet]
+        [Authorize]
+        public async Task<ActionResult<UserDto>> GetCurrentUser()
+        {
+            var email = HttpContext.User?.Claims?
+                .FirstOrDefault(x => x.Type == ClaimTypes.Email)?.Value;
+            var user = await _userManager.FindByEmailAsync(email);
+            
+            return new UserDto
+            {
+                DisplayName = user.DisplayName,
+                Token = _tokenService.CreateToken(user),
+                Email = user.Email
+            };
+        }
+
+        [HttpGet("emailexists")]
+        public async Task<ActionResult<bool>> CheckEmailExistsAsync([FromQuery] string email)
+        {
+            return await _userManager.FindByEmailAsync(email) != null;
+        }
+
+        [Authorize]
+        [HttpGet("address")]
+        public async Task<ActionResult<Address>> GetUserAddress()
+        {
+            var email = HttpContext.User?.Claims?
+                .FirstOrDefault(x => x.Type == ClaimTypes.Email)?.Value;
+            var user = await _userManager.FindByEmailAsync(email);
+            return user.Address;
         }
     }
 }
