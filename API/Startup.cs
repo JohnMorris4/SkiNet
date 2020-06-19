@@ -45,7 +45,7 @@ namespace API
             });
             services.AddApplicationServices();
             services.AddIdentityServices(Configuration);
-            services.AddSwaggerServices();
+            services.AddSwaggerDocumentation();
             services.AddCors(opt =>
             {
                 opt.AddPolicy("CorsPolicy", policy =>
@@ -74,7 +74,7 @@ namespace API
             app.UseAuthentication();
             // CORS has to go above the UseAuthorization()     
             app.UseAuthorization();
-            app.UseSwaggerDocs();
+            app.UseSwaggerDocumention();
             
 
             app.UseEndpoints(endpoints =>
