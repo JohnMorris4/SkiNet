@@ -18,6 +18,8 @@ namespace API.Extensions
             services.AddScoped<IBasketRepository, BasketRepository>();
             services.AddScoped(typeof(IGenericRepository<>),
                 (typeof(GenericRepository<>)));
+
+            services.AddScoped<IOrderService, OrderService>();
             
             services.Configure<ApiBehaviorOptions>(options =>
             {
