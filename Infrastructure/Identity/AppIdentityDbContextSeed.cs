@@ -24,7 +24,7 @@ namespace Infrastructure.Identity
                         Street = "123 Main Street",
                         City = "Anytown",
                         State = "US",
-                        ZipCode = "12345"
+                        Zipcode = "12345"
                     }
 
                 };
