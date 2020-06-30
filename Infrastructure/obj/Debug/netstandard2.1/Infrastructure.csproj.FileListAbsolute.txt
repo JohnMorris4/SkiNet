@@ -10,3 +10,15 @@
 /Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete
 /Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
 /Users/johnmorris/Projects/skinet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csprojAssemblyReference.cache
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/bin/Debug/netstandard2.1/Core.dll
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/bin/Debug/netstandard2.1/Core.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete

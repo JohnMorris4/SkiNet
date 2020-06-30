@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MjTggWAHmWZBgS+gVC3hUK4ey4LTmNB0BRO3UPtf5Y8g7tawoL/m0ZuOymlG5WQjQ6JiJh+83x5TEgH0bRs0Nw==",
+  "dgSpecHash": "2fnpsdU8NQvZ4jceNoAcA9vRayNVipswVKVe7taU8sZx3qpNTjHyPX3Dvt/7OF0obg1w+X7TbXoHKAO9/dOskA==",
   "success": true,
-  "projectFilePath": "/Users/johnmorris/Projects/skinet/Core/Core.csproj",
+  "projectFilePath": "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/johnmorris/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.1/microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.1/microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnmorris/Projects/skinet/Core/Core.csproj": {}
+    "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/johnmorris/Projects/skinet/Core/Core.csproj": {
+    "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnmorris/Projects/skinet/Core/Core.csproj",
+        "projectUniqueName": "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/johnmorris/Projects/skinet/Core/Core.csproj",
+        "projectPath": "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj",
         "packagesPath": "/Users/johnmorris/.nuget/packages/",
-        "outputPath": "/Users/johnmorris/Projects/skinet/Core/obj/",
+        "outputPath": "/Users/johnmorris/RiderProjects/SkiNet/Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

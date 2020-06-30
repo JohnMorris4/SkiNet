@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Core.Entities.OrderAggregate;
-using Address = Core.Entities.Identity.Address;
+
 
 namespace Core.Interfaces
 {

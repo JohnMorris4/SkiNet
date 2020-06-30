@@ -5577,11 +5577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnmorris/Projects/skinet/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/johnmorris/Projects/skinet/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/johnmorris/.nuget/packages/",
-      "outputPath": "/Users/johnmorris/Projects/skinet/Infrastructure/obj/",
+      "outputPath": "/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5598,8 +5598,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/johnmorris/Projects/skinet/Core/Core.csproj": {
-              "projectPath": "/Users/johnmorris/Projects/skinet/Core/Core.csproj"
+            "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj": {
+              "projectPath": "/Users/johnmorris/RiderProjects/SkiNet/Core/Core.csproj"
             }
           }
         }

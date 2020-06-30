@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Core.Interfaces;
-using Address = Core.Entities.Identity.Address;
+
 
 namespace Infrastructure.Services
 {
@@ -45,9 +45,6 @@ namespace Infrastructure.Services
             var deliveryMethod = await _dmRepo.GetByIdAsync(deliveryMethodId);
 
             var subTotal = items.Sum(item => item.Price * item.Quantity);
-            
-            
-            //Getting an error on items. Error is not assignable of type string
             var order = new Order(items, buyerEmail, shippingAddress, deliveryMethod, subTotal);
 
             return order;

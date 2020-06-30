@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GO/KwXEmVH8D43Vf2orS3mY7apf9M7mdqXb9ARxkTo39mS6amJwoTr/45Kae7Sec+Nt7f4fCbWujsNtKlKf/Yw==",
+  "dgSpecHash": "uiEt5EM7Cn3u+MuNR2B1J5Umnel3qzQ0ZIrCCDbGhofujL742kyR45/+C1gAwxUXwv/TybdhMFl43YiyZ/G7qg==",
   "success": true,
-  "projectFilePath": "/Users/johnmorris/Projects/skinet/API/API.csproj",
+  "projectFilePath": "/Users/johnmorris/RiderProjects/SkiNet/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/johnmorris/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/johnmorris/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

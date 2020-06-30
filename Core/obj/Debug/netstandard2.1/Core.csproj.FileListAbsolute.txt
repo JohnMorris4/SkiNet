@@ -7,3 +7,12 @@
 /Users/johnmorris/Projects/skinet/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
 /Users/johnmorris/Projects/skinet/Core/obj/Debug/netstandard2.1/Core.dll
 /Users/johnmorris/Projects/skinet/Core/obj/Debug/netstandard2.1/Core.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/johnmorris/RiderProjects/SkiNet/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/johnmorris/RiderProjects/SkiNet/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/johnmorris/RiderProjects/SkiNet/Core/obj/Debug/netstandard2.1/Core.pdb

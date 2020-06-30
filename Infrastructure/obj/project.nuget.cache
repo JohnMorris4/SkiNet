@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i9W9Rx5htsYhdbFy2gB0b67IU+RcF5UuIOiheyFqJvGGe6fxvDWOReMH0bHqabAVjIUPOFKuGs9Bu6ynjBLVLg==",
+  "dgSpecHash": "4SIAbbJ4f+o1X72j5/7QeFjZKHU6IkRkWxWaJxBmrRlLmk79mFLf9azoeaa7rhvZtAY9NCJS4KXAD22Zhv8ZHA==",
   "success": true,
-  "projectFilePath": "/Users/johnmorris/Projects/skinet/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/johnmorris/RiderProjects/SkiNet/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
